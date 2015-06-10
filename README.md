@@ -6,7 +6,6 @@
 Private music school which comes to you.
 
 Lessons of Cello, Piano for Beginners, Music Theory and History.
-Mission
 
 Music education and sharing love for music.
 
