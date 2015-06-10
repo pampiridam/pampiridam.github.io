@@ -47,11 +47,15 @@
       text-decoration: none; }
       .header .social-pack a:hover {
         color: #00b3ee; }
+  .header .heading-block {
+    background: white;
+    opacity: .9;
+    min-width: 600px;
+    margin: 0 auto;
+  }
   .header img.heading-logo {
     max-width: 50%;
-    background: white;
     padding: 10px 20px 0 20px;
-    opacity: .9;
   }
 
 .post-loop {
@@ -150,7 +154,7 @@
   margin-left: 10%; }
   .single-post-title-main h2 {
     font-family: "Monostate", sans-serif;
-    font-size: 5em;
+    font-size: 2em;
     font-weight: 900; }
   .single-post-title-main small {
     font-kerning: normal;
