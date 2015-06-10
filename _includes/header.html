@@ -7,8 +7,20 @@
     <a class="tab pi-default pi-big pi-flat" target="_blank" href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> My Github</a>
 
     <!-- Main Head Title -->
-    {% if site.title %}<h2><a href="{{site.baseurl}}/">{{site.title}}</a></h2>{% endif %}
-    {% if site.smalltalk %}<p>{{ site.smalltalk }}</p>{% endif %}
+    <div class="heading-block">
+    {% if site.title %}
+        <h2>
+            <a href="{{site.baseurl}}/">
+                <img class="heading-logo" src="/img/pampiridam_logo_heading.png" alt="pampiridam logo" />
+                <span style="font-size: 0px;">{{site.title}}</span>
+            </a>
+        </h2>
+    {% endif %}
+
+    {% comment %}
+    {% if site.smalltalk %}<p>Music school for everyone!</p>{% endif %}
+    {% endcomment%}
+    </div>
 
 
 

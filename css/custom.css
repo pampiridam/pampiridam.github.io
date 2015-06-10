@@ -1,6 +1,13 @@
 /*This is the header section styles*/
 .header {
-  background: url("../img/bg.jpeg") 50% 0 no-repeat fixed;
+  /*background: url("../img/musique-eveil-01.jpg") 50% 0 no-repeat fixed;*/
+  background: url("../img/musique-eveil-07.jpg") no-repeat center center scroll;
+
+/*  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+*/
   width: 100%;
   min-height: 400px;
   margin: 0 auto;
@@ -40,6 +47,12 @@
       text-decoration: none; }
       .header .social-pack a:hover {
         color: #00b3ee; }
+  .header img.heading-logo {
+    max-width: 50%;
+    background: white;
+    padding: 10px 20px 0 20px;
+    opacity: .9;
+  }
 
 .post-loop {
   margin-top: 10%;
