@@ -11,3 +11,7 @@ Music education and sharing love for music.
 
 `CS:`  
 Hudební vzdělávání a sdílení lásky k hudbě.
+
+
+#### TODO
+- get data from `http://www.brussels-cello-duo.com/#!music-lessons/c4x0` and create menu based on sections on that site
