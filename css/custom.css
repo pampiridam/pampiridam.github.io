@@ -38,7 +38,7 @@ position: relative;
     margin-top: 2%; }
   .header a {
     text-decoration: none !important;
-    margin-left: 80%;
+    /*margin-left: 80%;*/
     color: #fff; }
     @media screen and (max-width: 360px) {
       .header a {
@@ -226,7 +226,7 @@ a {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: green;
+    background-color: rgba(164, 128, 235, 0.9);
 }
 
 .navbar-custom .navbar-brand {
@@ -240,7 +240,9 @@ a {
 .navbar-custom .navbar-brand .navbar-toggle {
     padding: 4px 6px;
     font-size: 16px;
-    color: #fff;
+}
+button.navbar-toggle {
+      color: white;
 }
 
 .navbar-custom .navbar-brand .navbar-toggle:focus,
@@ -261,6 +263,7 @@ a {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
+    text-align: center;
 }
 
 .navbar-custom .nav li a:hover,
@@ -268,6 +271,7 @@ a {
 .navbar-custom .nav li a.active {
     outline: 0;
     background-color: rgba(255,255,255,.3);
+    color: white;
 }
 
 @media(min-width:767px) {
