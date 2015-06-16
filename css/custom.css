@@ -1,5 +1,8 @@
 /*This is the header section styles*/
 .header {
+
+position: relative;
+
   /*background: url("../img/musique-eveil-01.jpg") 50% 0 no-repeat fixed;*/
   background: url("../img/musique-eveil-07.jpg") no-repeat center center scroll;
 
@@ -19,7 +22,9 @@
     font-weight: 900;
     color: #fff;
     letter-spacing: 0.2em;
-    margin-top: 10%; }
+    margin-top: 5px;
+    width: 100%;
+     }
     .header h2 a {
       margin-left: 0%;
       color: #fff; }
@@ -50,12 +55,14 @@
   .header .heading-block {
     background: white;
     opacity: .9;
-    min-width: 600px;
+    width: 100%;
     margin: 0 auto;
+    position: absolute;
+    bottom: 0;
   }
   .header img.heading-logo {
-    max-width: 50%;
-    padding: 10px 20px 0 20px;
+    max-width: 70%;
+    padding-top: 10px;
   }
 
 .post-loop {
