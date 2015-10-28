@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Contact
+permalink: /contact/
 ---
 
 Please contact us if you have any questions!

@@ -1,8 +1,8 @@
 ---
 layout: default
+title: About the lessons
+permalink: /teaching/
 ---
-
-### ABOUT THE LESSONS
 
 Music education is always about cooperation and co-playing and that’s why we discuss with my students and their parents what they would like to learn, what is their idea of music lesson, what caught their interest in the music area, but I also keep good development by using proven teaching methods.
 I engage the motto of Czech ancient teacher Comenius “School is play”, and thanks to that students study not only technique of playing an instrument or a theory, but they use also gained skills and knowledge in practice, for example during improvisation. With the children we also play games and quizzes so they enjoy the process of learning. Because of Brussels being such a multicultural city and my student’s encounter with many outside phenomena, I use that advantage during lessons and we learn, for example, a foreign nation’s songs or special techniques of playing an instrument.
