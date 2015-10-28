@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About the teacher:
-
 ### ZUZANA JIRGLOVÁ
 
 Born in 1985, began to learn playing the cello at the age of eleven in Basic Music School Frýdek-Místek, Czech Republic, then entered the Janáček’s Conservatory in Ostrava in the class of Jiří Zedníček (Kubín Quartet), where she  successfully finished in 2007. That same year Zuzana started bachelor studies at the Academy of Music and Performing Arts in Bratislava, Slovakia, in the class of doc. Ján Slávik, ArtD. (Moyzes Quartet, Slovak Philharmonic Orchestra) and in 2010 she entered class of Viviane Spanoghe at Koninklijk Conservatorium Brussel, where she completed her education with a Master in Music diploma in 2013.
