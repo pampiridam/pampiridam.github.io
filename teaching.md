@@ -31,7 +31,8 @@ To learn something new, even though as a child or an adult, regularity is requir
 If you or your child doesn’t have enough time to practice every day, it is sufficient to play at least three times per week.
 
 
-# Cello Lessons
+Cello Lessons
+---
 Cello lessons are individual. Content of lessons depends on age of students, ability to learn, on level (in case that they have already some music experience or directly with cello) and also on their expectations.
 We can start from the beginning, it means students learns about parts of cello and their functions, holding of the instrument, they play at first in basic positions and pizzicato (plucking) and after they adopt way of playing with bow. If student is advanced, he/she is developing already gained skills and learns more demanding compositions, songs or techniques.
 
@@ -50,7 +51,8 @@ We can start from the beginning, it means students learns about parts of cello a
 
 IF YOU WOULD LIKE TO BOOK A LESSON OR HAVE MORE INFORMATION, DON'T HESITATE TO [CONTACT ME](/contact/).
 
-# Piano For Beginners
+Piano For Beginners
+---
 Piano lessons are individual. Content of lessons depends on age of student, ability to learn and on their expectations. Students get acquainted with piano (or keyboard and its functions), I explain the system of keys and pedals. Students start to play by one hand, after by both hands. We are developing playing melodically (and not only in right hand) with simple accompaniment, later on more complicated one.
 
 #### What you or your child can expect during lessons with me?
@@ -69,7 +71,8 @@ Piano lessons are individual. Content of lessons depends on age of student, abil
 IF YOU WOULD LIKE TO BOOK A LESSON OR HAVE MORE INFORMATION, DON'T HESITATE TO [CONTACT ME](/contact/).
 
 
-# Music Theory and/or Music History
+Music Theory and/or Music History
+---
 Music theory and/or music history lessons are individual or collective. We are listening to recordings, clapping rhythmical exercises, singing, reading, talking, playing music games, and writing down musical dictates...
 Learning about music theory and history helps you or your child to quicken progress of learning to play an instrument, and because of that I always recommend both, lessons of cello or piano and also music theory and history.
 
@@ -86,7 +89,8 @@ Learning about music theory and history helps you or your child to quicken progr
 
 IF YOU WOULD LIKE TO BOOK A LESSON OR HAVE MORE INFORMATION, DON'T HESITATE TO [CONTACT ME](/contact/).
 
-# Introduction To Music
+Introduction To Music
+---
 In French called „Eveil musical“ the Introduction to music is collective lesson for children of pre-school age (2,5-6 years). All activities lead to child’s movements development as well as to basic understanding of music.
 
 #### What your child can expect during lessons with me?
