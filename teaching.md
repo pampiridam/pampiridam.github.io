@@ -48,7 +48,7 @@ We can start from the beginning, it means students learns about parts of cello a
 
 -> happiness and entertainment from playing of favourite melodies (do you like soundtracks from Twilight or Harry Potter? Are you fan of Star Wars? Everything is possible!)
 
-IF YOU WOULD LIKE TO BOOK A LESSON OR HAVE MORE INFORMATION, DON'T HESITATE TO [/contact/](CONTACT ME).
+IF YOU WOULD LIKE TO BOOK A LESSON OR HAVE MORE INFORMATION, DON'T HESITATE TO [CONTACT ME](/contact/).
 
 ## Piano For Beginners
 Piano lessons are individual. Content of lessons depends on age of student, ability to learn and on their expectations. Students get acquainted with piano (or keyboard and its functions), I explain the system of keys and pedals. Students start to play by one hand, after by both hands. We are developing playing melodically (and not only in right hand) with simple accompaniment, later on more complicated one.
@@ -66,7 +66,7 @@ Piano lessons are individual. Content of lessons depends on age of student, abil
 
 -> happiness and entertainment from playing your favourite melodies (do you like soundtracks from Twilight or Harry Potter? Are you fan of Star Wars? Everything is possible!
 
-IF YOU WOULD LIKE TO BOOK A LESSON OR HAVE MORE INFORMATION, DON'T HESITATE TO [/contact/](CONTACT ME).
+IF YOU WOULD LIKE TO BOOK A LESSON OR HAVE MORE INFORMATION, DON'T HESITATE TO [CONTACT ME](/contact/).
 
 
 ## Music Theory and/or Music History
@@ -84,7 +84,7 @@ Learning about music theory and history helps you or your child to quicken progr
 
 -> info about musicians, interprets of both classical and popular music
 
-IF YOU WOULD LIKE TO BOOK A LESSON OR HAVE MORE INFORMATION, DON'T HESITATE TO [/contact/](CONTACT ME).
+IF YOU WOULD LIKE TO BOOK A LESSON OR HAVE MORE INFORMATION, DON'T HESITATE TO [CONTACT ME](/contact/).
 
 ## Introduction To Music
 In French called „Eveil musical“ the Introduction to music is collective lesson for children of pre-school age (2,5-6 years). All activities lead to child’s movements development as well as to basic understanding of music.
@@ -104,4 +104,4 @@ In French called „Eveil musical“ the Introduction to music is collective les
 
 Current sessions are at EEB3 (Ixelles) and in Ateliers Stani (Uccle).
 
-IF YOU WOULD LIKE TO INSCRIBE FOR THE LESSONS OR TO HAVE MORE INFORMATION, DON'T HESITATE TO [/contact/](CONTACT ME).
+IF YOU WOULD LIKE TO INSCRIBE FOR THE LESSONS OR TO HAVE MORE INFORMATION, DON'T HESITATE TO [CONTACT ME](/contact/).
