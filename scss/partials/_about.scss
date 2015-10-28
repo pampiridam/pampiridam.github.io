@@ -33,7 +33,8 @@
   font-weight: 200;
 }
 
-td {
+table tbody tr td {
   border: 1px solid black;
   background: green;
+  padding: 12px;
 }
