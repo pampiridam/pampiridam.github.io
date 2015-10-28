@@ -14,5 +14,4 @@ Hudební vzdělávání a sdílení lásky k hudbě.
 
 
 #### TODO
-- get data from `http://www.brussels-cello-duo.com/#!music-lessons/c4x0` and create menu based on sections on that site
-- fix rwd nav to work on subpages -> at the moment it seems to be just on the front page. weird as f*@k.
+- fix rwd nav to work on subpages -> at the moment it seems to be just on the front page. kinda weirdo now.

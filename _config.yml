@@ -1,7 +1,7 @@
 # Site settings
 title: pampiridam
-smalltalk: "A simple Blog"
-description: > # My blog Powred by jekyll
+smalltalk: "A music school for everyone!"
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 5
 url: "" # the base hostname & protocol for your site
