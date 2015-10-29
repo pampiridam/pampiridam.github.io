@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Please contact us if you have any questions!
+Please contact by email [pampiridam@gmail.com](pampiridam@gmail.com) if you have any questions!
 
-By email: [pampiridam@gmail.com](pampiridam@gmail.com)
 
-By phone: + 32 (0)488 24 37 06
