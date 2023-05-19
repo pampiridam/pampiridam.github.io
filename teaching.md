@@ -70,24 +70,3 @@ Learning about music theory and history helps you or your child to quicken progr
 &nbsp;&nbsp;&nbsp; &#x266b; info about musicians, interprets of both classical and popular music
 
 IF YOU WOULD LIKE TO BOOK A LESSON OR HAVE MORE INFORMATION, DON'T HESITATE TO [CONTACT ME](/contact/).
-
-# Introduction To Music
-
-In French called „Eveil musical“ the Introduction to music is collective lesson for children of pre-school age (2,5-6 years). All activities lead to child’s movements development as well as to basic understanding of music.
-
-#### What your child can expect during lessons with me?
-&nbsp;&nbsp;&nbsp; &#x266b; singing, learning new songs
-
-&nbsp;&nbsp;&nbsp; &#x266b; rhythmics (using the body or rhythmical instruments)
-
-&nbsp;&nbsp;&nbsp; &#x266b; dancing
-
-&nbsp;&nbsp;&nbsp; &#x266b; musical games
-
-&nbsp;&nbsp;&nbsp; &#x266b; by music accompanied drawing, painting
-
-&nbsp;&nbsp;&nbsp; &#x266b; by music accompanied relaxation
-
-Current sessions are at EEB3 (Ixelles) and in Ateliers Stani (Uccle).
-
-IF YOU WOULD LIKE TO INSCRIBE FOR THE LESSONS OR TO HAVE MORE INFORMATION, DON'T HESITATE TO [CONTACT ME](/contact/).
