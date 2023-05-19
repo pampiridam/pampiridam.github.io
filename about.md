@@ -8,7 +8,7 @@ permalink: /about/
 
 Currently I am teaching collective and individual music lessons for <a href="https://apeeeb3.be/extracurricular-activities/individual-music-lessons" target="_blank">the Association of Parents at European School of Brussels in Ixelles</a> and assisting in Czech Nursery Class of EEB3. 
 
-Something about me: 
+SOMETHING ABOUT ME: 
 
 As main or substitute teacher I gave cello lessons and music theory (group classes) at Basic Music Schools in Frýdek-Místek and Vratimov and from 2007 I am active as private teacher of cello, music theory, music history and piano for beginners (see more in section Lessons). In past I had been cooperating with Ateliers Stani and teaching private lessons all around Brussels.
  
