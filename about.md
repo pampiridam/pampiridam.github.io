@@ -22,7 +22,7 @@ For my studies I had received several scholarships, including those from the End
 
 SOMETHING ABOUT ME AS A PERSON:
 
-I am proud mom of two and bonus mom to one, wife to a Swedish husband who is musician too, member of a committee<a href="https://beseda.be" target="_blank">Czech Expat Association Beseda.
+I am proud mom of two and bonus mom to one, wife to a Swedish husband who is musician too, member of a committee <a href="https://beseda.be" target="_blank">Czech Expat Association Beseda.
 
 
 
