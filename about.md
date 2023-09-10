@@ -6,13 +6,13 @@ permalink: /about/
 
 ### ZUZANA GJERDINGEN
 
-Currently I am teaching collective and individual music lessons for <a href="https://apeeeb3.be/extracurricular-activities/individual-music-lessons" target="_blank">the Association of Parents at European School in Ixelles (APEEEB3)</a>, working as an Assistant Teacher in Czech Nursery Class of EEB3 and introducing the small ones to the world of music during lessons organized by <a href="https://www.bru4.eu/periscolaire/" target="_blank">Association of Parents at European School in Laeken (APEEEB4).
+Currently I am teaching collective and individual music lessons for <a href="https://apeeeb3.be/extracurricular-activities/individual-music-lessons" target="_blank">the Association of Parents at European School in Ixelles (APEEEB3)</a>, working as an Assistant Teacher in the Czech Nursery Class of EEB3 and introducing the small ones to the world of music during lessons organized by <a href="https://www.bru4.eu/periscolaire/" target="_blank">Association of Parents at European School in Laeken (APEEEB4)</a>.
 
-SOMETHING ABOUT ME AS A TEACHER AND A MUSICIAN: 
+#### SOMETHING ABOUT ME AS A TEACHER AND A MUSICIAN: 
 
-As main or substitute teacher I gave cello lessons and music theory (group classes) at Basic Music Schools in Frýdek-Místek and Vratimov and from 2007 I am active as private teacher of cello, music theory, music history and piano for beginners (see more in section Lessons). In past I had been cooperating with Ateliers Stani and teaching private lessons all around Brussels.
+As main or substitute teacher I gave cello lessons and music theory (group classes) at Basic Music Schools in Frýdek-Místek and Vratimov. From 2007 I am active as private teacher of cello, music theory, music history and piano for beginners (see more in section <a href="http://pampiridam.eu/teaching/" target="_blank">Lessons</a>). In the past I had been cooperating with Ateliers Stani and teaching private lessons all around Brussels.
  
-For a several years I had played with Charlotte Barbier in Brussels Cello Duo during private and company events, also performed as soloist and member of chamber ensembles, bands, orchestras and choirs, at concerts in Czech Republic, Slovak Republic Poland, Austria, Belgium and France. Apart from classical music, I had been always active in the area of popular music (folk, rock and pop bands, drum’n’bass project), participated in the creation of two CD’s (Tauranga – Poznání, 2005; Slepí Křováci – Prasátko a jiné bajky, 2010).
+For a several years I had played in Brussels Cello Duo during private and company events, also performed as soloist and member of chamber ensembles, bands, orchestras and choirs, at concerts in Czech Republic, Slovak Republic, Poland, Austria, Belgium and France. Apart from classical music, I had been always active in the area of popular music (folk, rock and pop bands, drum’n’bass project), participated in the creation of two CD’s (Tauranga – Poznání, 2005; Slepí Křováci – Prasátko a jiné bajky, 2010).
 
 Born in 1985, I began to learn playing the cello at the age of eleven in Basic Music School Frýdek-Místek, Czech Republic, then entered the Janáček’s Conservatory in Ostrava in the class of Jiří Zedníček (Kubín Quartet), where I successfully finished in 2007. That same year I started bachelor studies at the Academy of Music and Performing Arts in Bratislava, Slovakia, in the class of doc. Ján Slávik, ArtD. (Moyzes Quartet, Slovak Philharmonic Orchestra) and in 2010 entered class of Viviane Spanoghe at Koninklijk Conservatorium Brussel, where I completed her education with a Master in Music diploma in 2013.
  
@@ -20,9 +20,9 @@ I participated in master-classes of prof. Jozef Podhoranský and Viviane Spanogh
  
 For my studies I had received several scholarships, including those from the Endowment Fund of Lívie and Václav Klaus in the academic year 2009-2010, the Endowment Fund of Rotary Club Ostrava (2010), the Czech Music Fund (2010-2011 and 2011-2012), Endowment The Life of an Artist (2009, 2010 and 2012) and Endowment For Development of Education (2009, 2012). 
 
-SOMETHING ABOUT ME AS A PERSON:
+#### SOMETHING ABOUT ME AS A PERSON:
 
-I am proud mom of two and bonus mom to one, wife to a Swedish husband (who is a musician too) and member of a committee <a href="https://beseda.be" target="_blank">Czech Expat Association Beseda.
+I am proud mom of two and bonus mom to one, wife to a Swedish husband (who is a musician too) and member of a committee <a href="https://beseda.be" target="_blank">Czech Expat Association Beseda</a>. With Czech as mothertongue I speak English as well as French and have knowledge of Slovak, Dutch and Swedish. My hobbies include cross-stitching, board games and gardening.
 
 
 
