@@ -6,7 +6,7 @@ permalink: /about/
 
 ### ZUZANA GJERDINGEN
 
-Currently I am teaching collective and individual music lessons for <a href="https://apeeeb3.be/extracurricular-activities/individual-music-lessons" target="_blank">the Association of Parents at European School in Ixelles</a>, working as an Assistant Teacher in Czech Nursery Class of EEB3 and introducing the small ones to the world of music during lessons organized by <a href="https://www.bru4.eu/periscolaire/" target="_blank">Association of Parents at European School in Laeken.
+Currently I am teaching collective and individual music lessons for <a href="https://apeeeb3.be/extracurricular-activities/individual-music-lessons" target="_blank">the Association of Parents at European School in Ixelles (APEEEB3)</a>, working as an Assistant Teacher in Czech Nursery Class of EEB3 and introducing the small ones to the world of music during lessons organized by <a href="https://www.bru4.eu/periscolaire/" target="_blank">Association of Parents at European School in Laeken (APEEEB4).
 
 SOMETHING ABOUT ME AS A TEACHER AND A MUSICIAN: 
 
