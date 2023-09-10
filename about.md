@@ -8,7 +8,7 @@ permalink: /about/
 
 Currently I am teaching collective and individual music lessons for <a href="https://apeeeb3.be/extracurricular-activities/individual-music-lessons" target="_blank">the Association of Parents at European School of Brussels in Ixelles</a> and assisting in Czech Nursery Class of EEB3. 
 
-SOMETHING ABOUT ME: 
+SOMETHING ABOUT ME AS A TEACHER AND A MUSICIAN: 
 
 As main or substitute teacher I gave cello lessons and music theory (group classes) at Basic Music Schools in Frýdek-Místek and Vratimov and from 2007 I am active as private teacher of cello, music theory, music history and piano for beginners (see more in section Lessons). In past I had been cooperating with Ateliers Stani and teaching private lessons all around Brussels.
  
@@ -18,7 +18,11 @@ Born in 1985, I began to learn playing the cello at the age of eleven in Basic M
  
 I participated in master-classes of prof. Jozef Podhoranský and Viviane Spanoghe, attended the Koninklijk Conservatorium Brussel for five months via the Erasmus exchange study (2009) and also graduated in Additional Pedagogical Studies (2010) at the Academy of Music and Performing Arts in Bratislava.
  
-For her studies I had received several scholarships, including those from the Endowment Fund of Lívie and Václav Klaus in the academic year 2009-2010, the Endowment Fund of Rotary Club Ostrava (2010), the Czech Music Fund (2010-2011 and 2011-2012), Endowment The Life of an Artist (2009, 2010 and 2012) and Endowment For Development of Education (2009, 2012). 
+For my studies I had received several scholarships, including those from the Endowment Fund of Lívie and Václav Klaus in the academic year 2009-2010, the Endowment Fund of Rotary Club Ostrava (2010), the Czech Music Fund (2010-2011 and 2011-2012), Endowment The Life of an Artist (2009, 2010 and 2012) and Endowment For Development of Education (2009, 2012). 
+
+SOMETHING ABOUT ME AS A PERSON:
+
+I am proud mom of two and bonus mom to one, wife to Swedish husband who is as well musician, member of a committee<a href="https://beseda.be" target="_blank">Czech Expat Association Beseda.
 
 
 
